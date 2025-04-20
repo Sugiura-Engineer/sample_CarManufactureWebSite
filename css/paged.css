@@ -1,0 +1,102 @@
+#page_d{
+    width:100%;
+    height:70vh;
+
+    margin-top:-10vh;
+
+    position:relative;
+    z-index: 3;
+
+    display:flex;
+
+    font-family: "ruika", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+
+    color:white;
+}
+.d_left_box{
+    width:50%;
+    background-color: #ffaec3;
+
+    text-align: center;
+    font-size:3vw;
+}
+.d_left_lower{
+    width:90%;
+    font-size: 1.5vw;
+    margin-left:auto;
+    margin-right:auto;
+
+    margin-top: 11vh;
+    text-align: left;
+}
+.d_right_box{
+    width:50%;
+    background-color: #2a2a2a;
+
+    text-align: center;
+    font-size:3vw;
+
+    position:relative;
+}
+.d_right_lower{
+    width:100%;
+    font-size: 1.5vw;
+
+    margin-top: 10vh;
+    text-align: center;
+}
+.d_right_lower p{
+    background-color: white;
+    color:#2a2a2a;
+
+    font-size: 2.5vw;
+
+    width:60%;
+    border-radius: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.d_snslinks{
+    display:flex;
+    justify-content: center;
+    gap:2vw;
+    width:60%;
+
+    margin-top:10vh;
+    margin-right: auto;
+    margin-left: auto;
+}
+.d_snslinks img{
+    width:5vw;
+    height:auto;
+}
+#d_backtotop{
+    position: absolute;
+
+    right:1vw;
+    bottom:3vh;
+}
+#d_glico{
+    cursor: pointer;
+}
+#d_insta{
+    cursor: pointer;
+}
+#d_tik{
+    cursor: pointer;
+}
+#d_x{
+    cursor: pointer;
+}
+#d_backtotop{
+    cursor: pointer;
+}
+#d_stopper{
+    position:absolute;
+
+    left:50%;
+    transform: translateX(-50%);
+    bottom: 3vh;
+}
