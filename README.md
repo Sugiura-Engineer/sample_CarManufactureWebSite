@@ -5,6 +5,7 @@ SiteLink：<https://sugiura-engineer.github.io/sample_PockyEarphone/>
 3作目<br>
 2025/4/18～21<br>
 :JavaScript HTML CSS (Photoshop)<br>
+スマホ非対応<br>
 
 ## 1.概要
 "Pockyのワイヤレスイヤホン"の紹介サイト、というコンセプトのサンプルサイトです<br>
